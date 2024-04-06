@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "youR47SkaSmkLjOooOWZcC9k3jlLEdT3iiVC/284cHo=",
+  "Hash": "OZBc7SRiooKnT7sIgY61OzflwUDMAaRHvWdQs3wWFNg=",
   "Source": "DA_HoiThao",
   "BasePath": "_content/DA_HoiThao",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\haitr\\OneDrive\\Máy tính\\Hai Dang\\DA_HoiThao\\DA_HoiThao\\wwwroot\\Img\\Hutech.jpg",
+      "SourceId": "DA_HoiThao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\haitr\\OneDrive\\Máy tính\\Hai Dang\\DA_HoiThao\\DA_HoiThao\\wwwroot\\",
+      "BasePath": "_content/DA_HoiThao",
+      "RelativePath": "Img/Hutech.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\Hutech.jpg"
     },
     {
       "Identity": "C:\\Users\\haitr\\OneDrive\\Máy tính\\Hai Dang\\DA_HoiThao\\DA_HoiThao\\wwwroot\\js\\site.js",

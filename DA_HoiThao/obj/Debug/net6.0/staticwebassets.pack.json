@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\DA_HoiThao.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\haitr\\OneDrive\\Máy tính\\Hai Dang\\DA_HoiThao\\DA_HoiThao\\wwwroot\\Img\\Hutech.jpg",
+      "PackagePath": "staticwebassets\\Img\\Hutech.jpg"
+    },
+    {
       "Id": "C:\\Users\\haitr\\OneDrive\\Máy tính\\Hai Dang\\DA_HoiThao\\DA_HoiThao\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

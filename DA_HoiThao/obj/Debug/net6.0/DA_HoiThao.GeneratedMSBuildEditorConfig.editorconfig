@@ -16,6 +16,66 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\haitr\OneDrive\Máy tính\Hai Dang\DA_HoiThao\DA_HoiThao
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/ClassMng/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2xhc3NNbmdcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/ClassMng/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2xhc3NNbmdcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/ClassMng/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2xhc3NNbmdcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/ClassMng/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2xhc3NNbmdcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/ClassMng/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2xhc3NNbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/FacultyMng/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFjdWx0eU1uZ1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/FacultyMng/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFjdWx0eU1uZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/FacultyMng/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFjdWx0eU1uZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/FacultyMng/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFjdWx0eU1uZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/FacultyMng/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFjdWx0eU1uZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/StudentMng/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3R1ZGVudE1uZ1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/StudentMng/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3R1ZGVudE1uZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/StudentMng/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3R1ZGVudE1uZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/StudentMng/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3R1ZGVudE1uZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/StudentMng/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3R1ZGVudE1uZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -99,6 +159,18 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-8lioxb57sz
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-1chv93s2ao
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-nqqgmyi8tf
 
 [C:/Users/haitr/OneDrive/Máy tính/Hai Dang/DA_HoiThao/DA_HoiThao/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

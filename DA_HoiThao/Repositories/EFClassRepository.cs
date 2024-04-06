@@ -30,7 +30,7 @@ namespace DA_HoiThao.Repositories
             return await _context.Classes.ToListAsync();
         }
 
-        public async  Task<Class> GetByIdAsync(int id)
+        public async Task<Class> GetByIdAsync(int id)
         {
             return await _context.Classes.FindAsync(id);
         }
